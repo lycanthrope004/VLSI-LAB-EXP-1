@@ -44,8 +44,13 @@ VERILOG CODE:
 ----Type Verilog Code
 
 OUTPUT:
+Full Adder:(Simulation)
+![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/f1510986-0a02-4648-9216-80b1b76877b6)
 
------Place a Waveform Generated from Xilinx ISE
+Full Adder:(Elobrated Design)
+![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/c90832c7-bec0-406b-8397-de4c9490f40c)
+
+
 
 RESULT:
 
