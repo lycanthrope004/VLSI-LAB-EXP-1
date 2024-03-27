@@ -220,7 +220,9 @@ Simulation:
 
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/8f2236eb-8ecf-43ca-afe7-38859087f512)
 
+
 Elaborated Design:
+
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/012dabdf-2bca-4a1f-b710-9abece39c8fa)
 
 
