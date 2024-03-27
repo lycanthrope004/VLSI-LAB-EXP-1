@@ -157,7 +157,73 @@ Elaborated Design:
 LOGIC_GATES:
  Code:
  ```
-
+module logicgates(a,b,andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate);
+input a,b;
+output andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate;
+and(andgate,a,b);
+or(orgate,a,b);
+xor(xorgate,a,b);
+nand(nandgate,a,b);  
+nor(norgate,a,b);
+xnor(xnorgate,a,b);
+not(notgate,a);
+endmodule
 ```
+
+OUTPUT:
+
+Simulation:
+![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/8ea068c7-4870-4224-9def-3b441ca500e8)
+
+Elaborated Design:
+![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/51299302-0ebd-4a71-9047-070d13ce30f8)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#6
+
+RIPPLE_CARRY_Adder(4-BIT):-
+
+Code:
+```
+module rippe_adder(S, Cout, X, Y,Cin);
+ input [3:0] X, Y;// Two 4-bit inputs
+ input Cin;
+ output [3:0] S;
+ output Cout;
+ wire w1, w2, w3;
+ fulladder u1(S[0], w1,X[0], Y[0], Cin);
+ fulladder u2(S[1], w2,X[1], Y[1], w1);
+ fulladder u3(S[2], w3,X[2], Y[2], w2);
+ fulladder u4(S[3], Cout,X[3], Y[3], w3);
+endmodule
+```
+
+OUTPUT:-
+
+Simulation:
+![WhatsApp Image 2024-03-25 at 11 08 55_68546aae](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/5693d20b-dd92-4623-948c-f34d75e15bac)
+
+Elaborated Design:
+![WhatsApp Image 2024-03-25 at 11 08 55_25ab378b](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/2fd66ce3-4067-41df-9265-652ac4e07886)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#7
+
+RIPPLE_CARRY_ADDER(4-BIT):-
+
+Code:
+```
+```
+OUTPUT:-
+
+Simulation:
+
+![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/8f2236eb-8ecf-43ca-afe7-38859087f512)
+
+Elaborated Design:
+![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/012dabdf-2bca-4a1f-b710-9abece39c8fa)
+
+
+
 RESULT:
 
