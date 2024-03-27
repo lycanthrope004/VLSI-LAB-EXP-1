@@ -40,6 +40,7 @@ Full Subtractor:
 
 
 VERILOG CODE:
+
 #1:-
 
 FULL_ADDER:-
@@ -78,7 +79,7 @@ Elobrated Design:
 
 FULL_SUBTRACTOR:-
 
-Code:
+ Code:
 ```
 // fullsubtractor using gate level modeling
 module full_sub(borrow,diff,a,b,c);
