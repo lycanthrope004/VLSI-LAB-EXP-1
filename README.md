@@ -69,7 +69,7 @@ Simulation:
 
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/f1510986-0a02-4648-9216-80b1b76877b6)
 
-Elobrated Design:
+Elaborated Design:
 
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/c90832c7-bec0-406b-8397-de4c9490f40c)
 
@@ -100,7 +100,7 @@ Simulation:
 
 ![WhatsApp Image 2024-03-25 at 11 44 17_ad1865f2](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/f9c63805-909a-4005-93a2-066e35224687)
 
-Eaborated Design:
+Elaborated Design:
 
 ![WhatsApp Image 2024-03-25 at 11 47 47_b6e7c75f](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/72c0bbaf-c51a-43d4-a2b6-c55c73245459)
 
