@@ -146,7 +146,8 @@ Elaborated Design:
 
 #4
 HALF_SUBTRACTOR:-
- Code:
+
+Code:
  ```
 module halfsubtractor( D,Bo,A,B);
 input A,B;
@@ -170,8 +171,9 @@ Elaborated Design:
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/1646f000-56dc-4944-80c5-dcd15e35ae08)
 
 #5
-LOGIC_GATES:
- Code:
+LOGIC_GATES:-
+
+Code:
  ```
 module logicgates(a,b,andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate);
 input a,b;
