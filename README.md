@@ -23,7 +23,7 @@
 
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
-Logic Diagram :
+**Logic Diagram :**
 
 
 
@@ -295,5 +295,5 @@ Elaborated Design:
 
 
 
-RESULT:
+**RESULT :**
 The simulation and synthesis of Logic Gates, Adders and Subtractor using Vivadoo Software are successfully completed
