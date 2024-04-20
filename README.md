@@ -25,6 +25,8 @@
 
 Logic Diagram :
 
+
+
 Logic Gates:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
@@ -89,7 +91,6 @@ Elaborated Design:
 
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/c90832c7-bec0-406b-8397-de4c9490f40c)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #2:-
 
@@ -121,7 +122,6 @@ Elaborated Design:
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/c804b8b9-4e92-4a8d-971f-758349ebf605)
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #3:-
 
 HALF_ADDER:-
@@ -134,7 +134,7 @@ output sum,carry; // sum and carry
 or(sum,a,b);
 and(carry,a,b);
 endmodule
-```
+```  
 OUTPUT:-
 
 Simulation:
@@ -143,7 +143,7 @@ Simulation:
 Elaborated Design:
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/4d5911a8-3adb-4bb5-9df1-77511b778011)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #4
 HALF_SUBTRACTOR:-
  Code:
@@ -169,7 +169,6 @@ Elaborated Design:
 
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/1646f000-56dc-4944-80c5-dcd15e35ae08)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #5
 LOGIC_GATES:
  Code:
@@ -195,7 +194,6 @@ Simulation:
 Elaborated Design:
 ![image](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/51299302-0ebd-4a71-9047-070d13ce30f8)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #6
 
 RIPPLE_CARRY_Adder(4-BIT):-
@@ -235,7 +233,6 @@ Simulation:
 Elaborated Design:
 ![WhatsApp Image 2024-03-25 at 11 08 55_25ab378b](https://github.com/lycanthrope004/VLSI-LAB-EXP-1/assets/121667830/2fd66ce3-4067-41df-9265-652ac4e07886)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #7
 
 RIPPLE_CARRY_ADDER(8-BIT):-
@@ -281,7 +278,7 @@ xor G2(S,w1,Ci);
 and G3(w2,X,Ci);
 and G4(w3,X,Y);
 or G5(CO,w3,w3);
-endmodule
+endmodule 
 ```
 OUTPUT:-
 
@@ -297,4 +294,4 @@ Elaborated Design:
 
 
 RESULT:
-
+The simulation and synthesis of Logic Gates, Adders and Subtractor using Vivadoo Software are successfully completed
