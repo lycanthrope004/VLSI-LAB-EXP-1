@@ -1,4 +1,4 @@
-# VLSI-LAB-EXPERIMENTS
+# SIMULATE AND SYNTHESIS OF LOGIC GATES ,ADDERS AND SUBTRACTORS
 **AIM:** To simulate and synthesis Logic Gates,Adders and Subtractor using Vivadoo Software
 
 **APPARATUS REQUIRED:**  Vivado™ ML 2023.2
@@ -25,9 +25,8 @@
 
 **Logic Diagram :**
 
+**Logic Gates:**
 
-
-Logic Gates:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
 
 
@@ -296,4 +295,4 @@ Elaborated Design:
 
 
 **RESULT :**
-The simulation and synthesis of Logic Gates, Adders and Subtractor using Vivadoo Software are successfully completed
+The simulation and synthesis of Logic Gates, Adders and Subtractor using Vivadoo Software are successfully verified
